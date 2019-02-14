@@ -32,7 +32,7 @@
         <p>Winner Kelechi is co-founder and CEO of startup marketing agency known as WINNERSFIELD ONLINE.<br><br>
 
             <b>Who Is Winner Kelechi?</b><br><br>
-            Born in June 29, 1993, in Maduguri, Boronu State,Nigeria, Winner Kelechi is originally a native of Isi-uzo L.G.A in Enugu State, Nigeria.<br>
+            Born in June 29, in Maduguri, Boronu State,Nigeria, Winner Kelechi is originally a native of Isi-uzo L.G.A in Enugu State, Nigeria.<br>
             I developed an interest in computers in 2014; when i was working with a medical clinic, and later that year madeup my mind to go back to school to study COMPUTER SCIENCE. My interest in programming began almost immediately after gaining admission to study Computer Science at the University of Calabar,Calabar. I first began by learning the C++ programming language in my freshman Year, and with the excitement of being able to manipulate the computer and get results, i decided to take online courses on XHTML and CSS as well as PHP. And just like that started building sites just for the fun of it. Later in 2017 i started getting "gigs" and building sites for SMEs and organistions.<br>
 
         </p>
